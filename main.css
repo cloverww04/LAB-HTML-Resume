@@ -1,0 +1,25 @@
+#articleOne {
+    font-family: 'Courier New', Courier, monospace;
+    border: 5px solid purple;
+}
+
+#articleTwo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 3px dashed blue;
+}
+#articleThree{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 6px dotted blueviolet;
+}
+
+h2 {
+    color: lightseagreen;
+}
+
+body {
+    background-color: bisque;
+}
+
+article {
+    padding: 50px;
+}
